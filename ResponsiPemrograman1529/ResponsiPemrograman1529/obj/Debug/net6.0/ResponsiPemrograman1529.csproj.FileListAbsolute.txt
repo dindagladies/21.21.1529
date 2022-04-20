@@ -1,0 +1,15 @@
+D:\Dev\21.21.1529\ResponsiPemrograman1529\ResponsiPemrograman1529\bin\Debug\net6.0\ResponsiPemrograman1529.exe
+D:\Dev\21.21.1529\ResponsiPemrograman1529\ResponsiPemrograman1529\bin\Debug\net6.0\ResponsiPemrograman1529.deps.json
+D:\Dev\21.21.1529\ResponsiPemrograman1529\ResponsiPemrograman1529\bin\Debug\net6.0\ResponsiPemrograman1529.runtimeconfig.json
+D:\Dev\21.21.1529\ResponsiPemrograman1529\ResponsiPemrograman1529\bin\Debug\net6.0\ResponsiPemrograman1529.dll
+D:\Dev\21.21.1529\ResponsiPemrograman1529\ResponsiPemrograman1529\bin\Debug\net6.0\ResponsiPemrograman1529.pdb
+D:\Dev\21.21.1529\ResponsiPemrograman1529\ResponsiPemrograman1529\obj\Debug\net6.0\ResponsiPemrograman1529.csproj.AssemblyReference.cache
+D:\Dev\21.21.1529\ResponsiPemrograman1529\ResponsiPemrograman1529\obj\Debug\net6.0\ResponsiPemrograman1529.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\21.21.1529\ResponsiPemrograman1529\ResponsiPemrograman1529\obj\Debug\net6.0\ResponsiPemrograman1529.AssemblyInfoInputs.cache
+D:\Dev\21.21.1529\ResponsiPemrograman1529\ResponsiPemrograman1529\obj\Debug\net6.0\ResponsiPemrograman1529.AssemblyInfo.cs
+D:\Dev\21.21.1529\ResponsiPemrograman1529\ResponsiPemrograman1529\obj\Debug\net6.0\ResponsiPemrograman1529.csproj.CoreCompileInputs.cache
+D:\Dev\21.21.1529\ResponsiPemrograman1529\ResponsiPemrograman1529\obj\Debug\net6.0\ResponsiPemrograman1529.dll
+D:\Dev\21.21.1529\ResponsiPemrograman1529\ResponsiPemrograman1529\obj\Debug\net6.0\refint\ResponsiPemrograman1529.dll
+D:\Dev\21.21.1529\ResponsiPemrograman1529\ResponsiPemrograman1529\obj\Debug\net6.0\ResponsiPemrograman1529.pdb
+D:\Dev\21.21.1529\ResponsiPemrograman1529\ResponsiPemrograman1529\obj\Debug\net6.0\ResponsiPemrograman1529.genruntimeconfig.cache
+D:\Dev\21.21.1529\ResponsiPemrograman1529\ResponsiPemrograman1529\obj\Debug\net6.0\ref\ResponsiPemrograman1529.dll
