@@ -1,0 +1,12 @@
+D:\pemrograman lanjut\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+D:\pemrograman lanjut\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+D:\pemrograman lanjut\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+D:\pemrograman lanjut\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+D:\pemrograman lanjut\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.SuggestedBindingRedirects.cache
+D:\pemrograman lanjut\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.FrmCalculator.resources
+D:\pemrograman lanjut\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.FrmEntryCalculator.resources
+D:\pemrograman lanjut\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+D:\pemrograman lanjut\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+D:\pemrograman lanjut\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\pemrograman lanjut\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+D:\pemrograman lanjut\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
